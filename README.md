@@ -1,2 +1,2 @@
 # JavaScriptExercises
-exercises to get started with learning
+exercises to get started with learning.
